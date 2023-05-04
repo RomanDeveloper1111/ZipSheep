@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f664e8c-1c75-4cb9-8903-b0662f9a9776" name="Changes" comment="update config">
+      <change afterPath="$PROJECT_DIR$/on_demand_project/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/0002_alter_currency_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/0003_alter_currency_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/0004_invoice_order_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/0005_alter_invoice_order_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/tests/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/on_demand_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/on_demand_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/on_demand_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/on_demand_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/on_demand_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on_demand_project/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d8e743d9-00d1-4a92-b716-103a65dbd239" />
+        <option name="url" value="https://github.com/RomanDeveloper1111/ZipShip.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrZOrCBz6Q2LGrahltyDfX0hga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/roman/PythonLocalProjects/ZipShip/on_demand_project/api&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/on_demand_project/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/on_demand_project/front/src/components" />
+      <recent name="$PROJECT_DIR$/on_demand_project/front/src/components/Header" />
+      <recent name="$PROJECT_DIR$/on_demand_project/front/src/images" />
+      <recent name="$PROJECT_DIR$/on_demand_project/front/src" />
+      <recent name="$PROJECT_DIR$/on_demand_project/front/src/components/Calculator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZipShip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f664e8c-1c75-4cb9-8903-b0662f9a9776" name="Changes" comment="" />
+      <created>1669045133377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669045133377</updated>
+      <workItem from="1671101384530" duration="3642000" />
+      <workItem from="1671457555428" duration="7195000" />
+      <workItem from="1671535805259" duration="15881000" />
+      <workItem from="1671694386388" duration="7960000" />
+      <workItem from="1672045734094" duration="32775000" />
+      <workItem from="1672906800142" duration="635000" />
+      <workItem from="1683184416050" duration="408000" />
+      <workItem from="1683184829694" duration="48000" />
+      <workItem from="1683184882113" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="update config">
+      <created>1683184591576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683184591576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update config">
+      <created>1683184674573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683184674573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update config" />
+    <option name="LAST_COMMIT_MESSAGE" value="update config" />
+  </component>
+</project>
